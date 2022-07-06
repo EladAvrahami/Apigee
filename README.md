@@ -24,7 +24,7 @@ proxy flows –  add verb+path to execute
 </pre>
 </br>
 
-Filtering Options - Endpoints of resource collections should allow filtering by using query parameters.
+### Filtering Options - Endpoints of resource collections should allow filtering by using query parameters.
 <pre>
 Filtering type	                Operator suffix name     	Format            	Example
 Equality(=)	  	                                         {fieldName}=values	      amount=400

@@ -22,3 +22,16 @@ https://www.youtube.com/watch?v=_B_y0gIT86o&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfp
 proxy flows –  add verb+path to execute
 
 </pre>
+</br>
+
+Filtering Options - Endpoints of resource collections should allow filtering by using query parameters.
+<pre>
+Filtering type	                Operator suffix name     	Format            	Example
+Equality(=)	  	                                         {fieldName}=values	      amount=400
+Greater than (>)	                        MIN           	{fieldName}MIN=value	    amountMIN=400
+Less than (<)	                           MAX	           {fieldName}MAX=value 	   firstPaymentDateMAX=2020-19-02T14:30:00.000Z
+Greater than or equal to (>=)	          MINEQ	          {fieldName}MINEQ=value	  amountMINEQ=400
+Less than or equal to (<=)             	MAXEQ	          {fieldName}MAXEQ=value	  amountMAXEQ=900
+Not equal to (!=)	                      NOT	            {fieldName}NOT=values	   statusNOT=4
+
+</pre>

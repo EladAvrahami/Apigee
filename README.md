@@ -38,3 +38,10 @@ Less than or equal to (<=)             	MAXEQ	          {fieldName}MAXEQ=value	 
 Not equal to (!=)	                      NOT	            {fieldName}NOT=values	   statusNOT=4
 
 </pre>
+
+
+Splunk:
+<pre>
+https://www.splunk.com/pdfs/training/Splunk-Education-Student-Handbook.pdf
+https://education.splunk.com/free
+</pre>

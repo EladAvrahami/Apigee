@@ -46,4 +46,5 @@ Splunk:
 https://www.splunk.com/pdfs/training/Splunk-Education-Student-Handbook.pdf
 https://education.splunk.com/free
 https://www.splunk.com/en_us/resources/videos/create-dashboard-in-splunk-enterprise.html
+SPL -SPLUNK LANGUAGE : https://docs.splunk.com/Documentation/SplunkCloud/latest/Search/Aboutthesearchlanguage
 </pre>

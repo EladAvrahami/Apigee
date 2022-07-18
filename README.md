@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=_B_y0gIT86o&list=PLsWqc60hQz4e-dV4sXOmmqAdB_JIfp
 proxy flows –  add verb+path to execute
 
 </pre>
+
+TLS- https://www.internetsociety.org/deploy360/tls/basics/?gclid=EAIaIQobChMI6aHj09yC-QIVDJ53Ch2YbQpLEAAYASAAEgK9bfD_BwE
 </br>
 
 ### Filtering Options - Endpoints of resource collections should allow filtering by using query parameters.

@@ -42,6 +42,10 @@ Not equal to (!=)	                      NOT	            {fieldName}NOT=values	  
 
 </pre>
 
+enrichments:</br>https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.0.md</br>
+Web API Design:https://cloud.google.com/files/apigee/apigee-web-api-design-the-missing-link-ebook.pdf
+
+
 
 Splunk:
 <pre>

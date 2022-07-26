@@ -47,6 +47,8 @@ Web API Design:https://cloud.google.com/files/apigee/apigee-web-api-design-the-m
 Load balancing across backend servers :https://cloud.google.com/apigee/docs/api-platform/deploy/load-balancing-across-backend-servers</br>
 About environments and environment groups: https://cloud.google.com/apigee/docs/api-platform/fundamentals/environments-overview
 
+gcloud CLI overview: https://cloud.google.com/sdk/gcloud
+
 
 
 Splunk:

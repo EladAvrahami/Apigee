@@ -8,7 +8,8 @@ link to COURSERA : https://www.coursera.org/specializations/apigee-api-gcp?actio
 <pre>
 
 Doc start:
-https://docs.apigee.com/how-to-guides/how-to-guides-introduction
+https://docs.apigee.com/how-to-guides/how-to-guides-introduction</br>
+https://apidocs.apigee.com/apis
 
 סרטוני הסברה apigee:
 https://cloud.google.com/blog/products/api-management/getting-started-with-apigee-api-management
@@ -48,5 +49,6 @@ Load balancing across backend servers :https://cloud.google.com/apigee/docs/api-
 About environments and environment groups: https://cloud.google.com/apigee/docs/api-platform/fundamentals/environments-overview
 
 gcloud CLI overview: https://cloud.google.com/sdk/gcloud
+
 
 
